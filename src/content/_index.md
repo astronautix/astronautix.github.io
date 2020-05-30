@@ -11,3 +11,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 ## Handbook du CSEP
 
  Le manuel du CSEP se trouve ici : [handbook](login.html)
+ 
+## Graphic
+
+See some graphic here : [raw graphic](plotly_graph.html)
