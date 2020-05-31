@@ -12,5 +12,9 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
  Le manuel du CSEP se trouve ici : [handbook](login.html)
  
-## Graphic
+## Data and graphics
+
+We share [here](articles/xcubesat) some data that we have.
+
+
 
