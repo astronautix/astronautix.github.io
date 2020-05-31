@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://localhost:1313/en/</loc>
+    <loc>https://astronautix.github.io/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://localhost:1313/"
+                href="https://astronautix.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/"
+                href="https://astronautix.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/categories/</loc>
+    <loc>https://astronautix.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://localhost:1313/categories/"
+                href="https://astronautix.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/categories/"
+                href="https://astronautix.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/tags/</loc>
+    <loc>https://astronautix.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://localhost:1313/tags/"
+                href="https://astronautix.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/tags/"
+                href="https://astronautix.github.io/en/tags/"
                 />
   </url>
   

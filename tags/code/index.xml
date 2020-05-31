@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on CSEP</title>
-    <link>https://localhost:1313/tags/code/</link>
+    <link>https://astronautix.github.io/tags/code/</link>
     <description>Recent content in code on CSEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor>
     <webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster>
     <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://astronautix.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Sample</title>
-      <link>https://localhost:1313/post/2016-03-08-code-sample/</link>
+      <link>https://astronautix.github.io/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://localhost:1313/post/2016-03-08-code-sample/</guid>
+      <guid>https://astronautix.github.io/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     
