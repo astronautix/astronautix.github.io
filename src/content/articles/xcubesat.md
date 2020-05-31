@@ -8,7 +8,7 @@ date: 2020-05-30
 
 We got a lot of data, there are some.
 
-To add a figure, see [the guid](/page/howto/howtoaddaplot)
+To add a figure, see [the guid](/tutorials/howto/howtoaddaplot)
 
 # Temperature of the batterie
 
