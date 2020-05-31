@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HandBook du CSE on CSEP</title>
-    <link>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/</link>
+    <link>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/</link>
     <description>Recent content in HandBook du CSE on CSEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor>
     <webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster>
     
-	<atom:link href="https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contribuer</title>
-      <link>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/posts/contribuer/</link>
+      <link>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/posts/contribuer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/posts/contribuer/</guid>
+      <guid>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/posts/contribuer/</guid>
       <description>Contribuer Le Site csep.binets.fr est hébergé au BR. Il est généré à partir de fichier Markdown avechugo. Ces fichiers sont présent dans le dépot https://gitlab.binets.fr/antoine.tavant1/website-csep.
 Pour modifier le Handbook, il faut cloner le dépot, modifier les fichier que se trouve dans le dossier content/&amp;lt;hash-du-password&amp;gt;/. Pas besoin de générer le site vous-même, un simple push sur la branche master lancer la mise à jour.
 Langage Le site est par défaut en Français, mais il est possible d&amp;rsquo;écrire des pages en Anglais si besoin.</description>
@@ -24,10 +24,10 @@ Langage Le site est par défaut en Français, mais il est possible d&amp;rsquo;�
     
     <item>
       <title>Security of the Password</title>
-      <link>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/security/</link>
+      <link>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/security/</guid>
+      <guid>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/security/</guid>
       <description>More informations at https://github.com/matteobrusa/Password-protection-for-static-pages
 Password protection This simple HTML document helps you protecting static pages or whole websites with no server configuration required: you can now use Dropbox, Amazon S3 or any generic hosting service to host a private, password protected site.
 Is this secure? Pretty much secure, please consider that:

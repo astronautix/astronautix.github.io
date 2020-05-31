@@ -14,7 +14,8 @@ pygmentCodeFences = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
-
+[markup.goldmark.renderer]
+  unsafe= true
 
 [languages]
 
@@ -110,3 +111,10 @@ pygmentCodeFences = true
     name = "Tags"
     url = "tags"
     weight = 3
+    
+    
+    
+[[menu.main]]
+    name = "data"
+    url = "data"
+    weight = 1

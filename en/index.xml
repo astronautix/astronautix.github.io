@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSEP</title>
-    <link>https://astronautix.github.io/en/</link>
+    <link>https://localhost:1313/en/</link>
     <description>Recent content on CSEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor>
     <webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster>
     
-	<atom:link href="https://astronautix.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

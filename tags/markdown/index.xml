@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on CSEP</title>
-    <link>https://astronautix.github.io/tags/markdown/</link>
+    <link>https://localhost:1313/tags/markdown/</link>
     <description>Recent content in markdown on CSEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor>
     <webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster>
     <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://astronautix.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test markdown</title>
-      <link>https://astronautix.github.io/post/2015-02-20-test-markdown/</link>
+      <link>https://localhost:1313/post/2015-02-20-test-markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/post/2015-02-20-test-markdown/</guid>
+      <guid>https://localhost:1313/post/2015-02-20-test-markdown/</guid>
       <description>You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
 Here is some bold text
 Here is a secondary heading Here&amp;rsquo;s a useless table:

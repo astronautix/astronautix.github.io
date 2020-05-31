@@ -3,158 +3,162 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://astronautix.github.io/</loc>
+    <loc>https://localhost:1313/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://astronautix.github.io/en/"
+                href="https://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://astronautix.github.io/"
+                href="https://localhost:1313/"
                 />
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/example/</loc>
+    <loc>https://localhost:1313/tags/example/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/photoswipe/</loc>
+    <loc>https://localhost:1313/tags/photoswipe/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2017-03-20-photoswipe-gallery-sample/</loc>
+    <loc>https://localhost:1313/post/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/</loc>
+    <loc>https://localhost:1313/post/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/</loc>
+    <loc>https://localhost:1313/tags/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://astronautix.github.io/en/tags/"
+                href="https://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://astronautix.github.io/tags/"
+                href="https://localhost:1313/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2017-03-07-bigimg-sample/</loc>
+    <loc>https://localhost:1313/post/2017-03-07-bigimg-sample/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/bigimg/</loc>
+    <loc>https://localhost:1313/tags/bigimg/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/math/</loc>
+    <loc>https://localhost:1313/tags/math/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2017-03-05-math-sample/</loc>
+    <loc>https://localhost:1313/post/2017-03-05-math-sample/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/code/</loc>
+    <loc>https://localhost:1313/tags/code/</loc>
     <lastmod>2016-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2016-03-08-code-sample/</loc>
+    <loc>https://localhost:1313/post/2016-03-08-code-sample/</loc>
     <lastmod>2016-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-02-26-flake-it-till-you-make-it/</loc>
+    <loc>https://localhost:1313/post/2015-02-26-flake-it-till-you-make-it/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/tags/markdown/</loc>
+    <loc>https://localhost:1313/tags/markdown/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-02-20-test-markdown/</loc>
+    <loc>https://localhost:1313/post/2015-02-20-test-markdown/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-02-13-hamlet-monologue/</loc>
+    <loc>https://localhost:1313/post/2015-02-13-hamlet-monologue/</loc>
     <lastmod>2015-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-01-27-dear-diary/</loc>
+    <loc>https://localhost:1313/post/2015-01-27-dear-diary/</loc>
     <lastmod>2015-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-01-19-soccer/</loc>
+    <loc>https://localhost:1313/post/2015-01-19-soccer/</loc>
     <lastmod>2015-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-01-15-pirates/</loc>
+    <loc>https://localhost:1313/post/2015-01-15-pirates/</loc>
     <lastmod>2015-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/post/2015-01-04-first-post/</loc>
+    <loc>https://localhost:1313/post/2015-01-04-first-post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/page/about/</loc>
+    <loc>https://localhost:1313/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/categories/</loc>
+    <loc>https://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://astronautix.github.io/en/categories/"
+                href="https://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://astronautix.github.io/categories/"
+                href="https://localhost:1313/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/posts/contribuer/</loc>
+    <loc>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/posts/contribuer/</loc>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/</loc>
+    <loc>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/</loc>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/page/</loc>
+    <loc>https://localhost:1313/page/</loc>
   </url>
   
   <url>
-    <loc>https://astronautix.github.io/a7e0fca162f4a5433c40f172b60b102646865d98/security/</loc>
+    <loc>https://localhost:1313/a7e0fca162f4a5433c40f172b60b102646865d98/security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/data/</loc>
   </url>
   
 </urlset>

@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CSEP</title>
-    <link>https://astronautix.github.io/tags/</link>
+    <link>https://localhost:1313/tags/</link>
     <description>Recent content in Tags on CSEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor>
     <webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://astronautix.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example</title>
-      <link>https://astronautix.github.io/tags/example/</link>
+      <link>https://localhost:1313/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/tags/example/</guid>
+      <guid>https://localhost:1313/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photoswipe</title>
-      <link>https://astronautix.github.io/tags/photoswipe/</link>
+      <link>https://localhost:1313/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/tags/photoswipe/</guid>
+      <guid>https://localhost:1313/tags/photoswipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bigimg</title>
-      <link>https://astronautix.github.io/tags/bigimg/</link>
+      <link>https://localhost:1313/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/tags/bigimg/</guid>
+      <guid>https://localhost:1313/tags/bigimg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://astronautix.github.io/tags/math/</link>
+      <link>https://localhost:1313/tags/math/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/tags/math/</guid>
+      <guid>https://localhost:1313/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://astronautix.github.io/tags/code/</link>
+      <link>https://localhost:1313/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/tags/code/</guid>
+      <guid>https://localhost:1313/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://astronautix.github.io/tags/markdown/</link>
+      <link>https://localhost:1313/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
-      <guid>https://astronautix.github.io/tags/markdown/</guid>
+      <guid>https://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     

@@ -14,4 +14,3 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
  
 ## Graphic
 
-See some graphic here : [raw graphic](plotly_graph.html)
