@@ -2,10 +2,14 @@
 title: X-CubeSat Data
 subtitle: What we understood from the mission
 comments: false
-permalink: tbat
+math: true
+date: 2020-05-30
 ---
 
-We got a lot of data, there are some
+We got a lot of data, there are some.
+
+To add a figure, see [the guid](/page/howto/howtoaddaplot)
+
 # Temperature of the batterie
 
 See by yourself
