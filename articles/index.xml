@@ -19,8 +19,10 @@
       <author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author>
       <guid>https://astronautix.github.io/articles/xcubesat/</guid>
       <description>We got a lot of data, there are some.
-To add a figure, see the guid
-Temperature of the batterie See by yourself</description>
+The figures are generated with Bokeh, using JavaScript for the interactivity. You need the allow the third party sources to see them.
+To add a figure in a similare static page, see this guid.
+Temperature of the batterie We measured the temperature of the satellites from our ground station. The most interesting one is the battery temperature.
+ The Ground station had some issues, hence the missing points.</description>
     </item>
     
   </channel>
