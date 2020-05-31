@@ -1,13 +1,17 @@
-## About us
+## Who are we ?
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+The Student Space Center of Ecole polytechnique (CSEP) is a structure gathering studients, and profetionnals to promot space at École polytechnique.
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+The CSEP leads several studient projects, most of them in parnership with laboratories or other univsersities.
 
-## Handbook
+## Data and graphics
 
-The the handbook at [handbook](login.html)
+We share some of our data, especially from X-Cubsat, [here](articles/xcubesat).
+
+
+
+
+## Handbook du CSEP
+
+ The Handbook of CSEP can be find here : [handbook](login.html)
+ 

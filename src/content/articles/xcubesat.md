@@ -4,6 +4,7 @@ subtitle: What we understood from the mission
 comments: false
 math: true
 date: 2020-05-30
+tag : XCubeSat
 ---
 
 We got a lot of data, there are some.
