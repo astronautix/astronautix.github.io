@@ -3,6 +3,7 @@ title: Code Sample
 subtitle: Using Hugo or Pygments
 date: 2016-03-08
 tags: ["example", "code"]
+draft: true
 ---
 
 The following are two code samples using syntax highlighting.

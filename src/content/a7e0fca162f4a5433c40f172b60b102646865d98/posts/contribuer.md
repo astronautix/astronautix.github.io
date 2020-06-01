@@ -2,6 +2,7 @@
 title: Contribuer
 subtitle: Comment participer à l'archivage des informations du CSE
 comments: false
+date : 2020-02-01
 ---
 # Contribuer
 

@@ -3,6 +3,7 @@ title: Math Sample
 subtitle: Using KaTeX
 date: 2017-03-05
 tags: ["example", "math"]
+draft: true
 ---
 
 KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:

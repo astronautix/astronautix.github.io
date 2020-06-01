@@ -3,6 +3,7 @@ title: Photoswipe Gallery Sample
 subtitle: Making a Gallery
 date: 2017-03-20
 tags: ["example", "photoswipe"]
+draft: true
 ---
 
 Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) . 
