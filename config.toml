@@ -1,5 +1,5 @@
-baseurl = "https://astronautix.github.io/"
-#baseurl = "https://localhost:1313/"
+#baseurl = "https://astronautix.github.io/"
+baseurl = "https://localhost:1313/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "../"
