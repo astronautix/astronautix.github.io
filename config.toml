@@ -2,7 +2,7 @@
 baseurl = "https://localhost:1313/"
 contentdir    = "content"
 layoutdir     = "layouts"
-publishdir    = "../"
+publishdir    = "public"
 title = "CSEP"
 canonifyurls  = true
 
