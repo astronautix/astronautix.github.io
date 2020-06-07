@@ -3,7 +3,7 @@
  * @Date:   2020-05-30T17:01:32+02:00
  * @Email:  antoine.tavant@polytechnique.edu
  * @Last modified by:   tavant
- * @Last modified time: 2020-06-06T22:17:16+02:00
+ * @Last modified time: 2020-06-07T12:47:27+02:00
  * @License: This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
@@ -40,6 +40,7 @@ html {
     border-color:#a3bffa
    }
    main>aside.tableOfContentContainer {
+    display: block !important;
     position:-webkit-sticky;
     position:sticky;
     top:79px;
