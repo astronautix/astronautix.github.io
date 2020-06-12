@@ -81,54 +81,12 @@
 
 
 
-	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+	<script src="/js/jquery-3.5.1.min.js"></script>
 
 
-	 <script type="text/javascript" src="js/sha1.js"></script>
+	 <script type="text/javascript" src="/js/sha1.js"></script>
 
-	<script type="text/javascript">
-	"use strict";
-
-
-	function loadPage(pwd) {
-
-		var hash= pwd;
-		hash= Sha1.hash(pwd);
-		var url= hash ;
-
-		$.ajax({
-			url : url,
-			dataType : "html",
-			success : function(data) {
-
-				window.location.assign(window.location.protocol +"//"+ window.location.host + "/" + url);
-
-			},
-			error : function(xhr, ajaxOptions, thrownError) {
-
-
-				parent.location.hash= hash;
-
-				//$("#wrongPassword").show();
-				$("#password").attr("placeholder","wrong password");
-				$("#password").val("");
-			}
-		});
-	}
-
-
-	$("#loginbutton").on("click", function() {
-		loadPage($("#password").val());
-	});
-	$("#password").keypress(function(e) {
-		if (e.which == 13) {
-
-			loadPage($("#password").val());
-		}
-	});
-	$("#password").focus();
-
-	</script>
+	<script type="text/javascript" src=/js/login_script.js></script>
 
 </body>
 </html>
