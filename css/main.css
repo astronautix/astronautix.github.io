@@ -44,7 +44,9 @@ html {
     position:-webkit-sticky;
     position:sticky;
     top:79px;
-    align-self:start
+    align-self:start;
+    min-width: 250px;
+    margin-left: 70px;
    }
    main>aside>h3 {
     font-size:16px;
@@ -57,7 +59,7 @@ html {
    main {
     display:grid;
     grid-template-columns:100% 12em;
-    width:80%
+    width:90%
    }
    #TableOfContents {
     display:block;
@@ -105,6 +107,16 @@ html {
 }
 
 @import url("pygment_highlights.css");
+
+
+/* Figure Caption */
+
+figcaption p {
+  font-size: 14px;
+  color: gray;
+  padding-left: 14px; 
+  padding-right: 14px; 
+}
 
 /* index */
 
@@ -712,7 +724,7 @@ footer .theme-by {
 
 .caption {
   text-align: center;
-  font-size: 14px;
+  font-size: 10px;
   padding: 10px;
   font-style: italic;
   margin: 0;
