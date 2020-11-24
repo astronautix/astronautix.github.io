@@ -118,6 +118,10 @@ figcaption p {
   padding-right: 14px; 
 }
 
+div.pswp__caption__center {
+  max-width: 90%;
+}
+
 /* index */
 
 .list-filters {
