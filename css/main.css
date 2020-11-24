@@ -541,6 +541,12 @@ footer .theme-by {
   }
 }
 
+/* Added Mata-data to articles page */
+
+div.row div.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1 span.post-meta {
+  color: gray;
+}
+
 /* --- Tags --- */
 
 .blog-tags {
