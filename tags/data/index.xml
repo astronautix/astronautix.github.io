@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data on CSEP</title><link>https://centrespatial-polytechnique.fr/tags/data/</link><description>Recent content in Data on CSEP</description><generator>Hugo -- gohugo.io</generator><managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor><webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://centrespatial-polytechnique.fr/tags/data/index.xml" rel="self" type="application/rss+xml"/><item><title>X-CubeSat Data</title><link>https://centrespatial-polytechnique.fr/x-cubesat-data/</link><pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate><author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author><guid>https://centrespatial-polytechnique.fr/x-cubesat-data/</guid><description>&lt;p>We got a lot of data, there are some.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data on CSEP</title><link>https://centrespatial-polytechnique.fr/tags/data/</link><description>Recent content in Data on CSEP</description><generator>Hugo -- gohugo.io</generator><managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor><webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://centrespatial-polytechnique.fr/tags/data/index.xml" rel="self" type="application/rss+xml"/><item><title>X-CubeSat Data</title><link>https://centrespatial-polytechnique.fr/x-cubesat-data/</link><pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate><author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author><guid>https://centrespatial-polytechnique.fr/x-cubesat-data/</guid><description>&lt;p>We got a lot of data. A LOT.&lt;/p>
+&lt;p>There is a map, with the approximate position of X-Cubesat when he emmitted the houskeeping recived.&lt;/p>
+&lt;link rel="stylesheet" href="https://centrespatial-polytechnique.fr/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://centrespatial-polytechnique.fr/img/xcubesat/Observation_estimation.png" alt="In Red, locatisation d&amp;#39;X-CubeSat when he emmitted the telemetry. Locatisation obtained from TLE and epoch of emmission. Click on the image to enlarge. "/>
+&lt;/div>
+&lt;a href="https://centrespatial-polytechnique.fr/img/xcubesat/Observation_estimation.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>In Red, locatisation d&amp;#39;X-CubeSat when he emmitted the telemetry. Locatisation obtained from TLE and epoch of emmission. Click on the image to enlarge. &lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div></description></item></channel></rss>
