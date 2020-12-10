@@ -112,6 +112,7 @@ html {
 /* Figure Caption */
 
 figcaption p {
+  text-align: center;
   font-size: 14px;
   color: gray;
   padding-left: 14px; 
