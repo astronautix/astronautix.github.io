@@ -85,6 +85,9 @@ html {
    .cronweekly #TableOfContents ul {
     margin-left:1rem!important
    }
+   #TableOfContents ul {
+    padding-left: 10px;
+   }
    #TableOfContents li ul li {
     margin-left:1rem
    }
