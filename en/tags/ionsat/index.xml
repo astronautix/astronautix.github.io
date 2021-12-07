@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ionSat on CSEP</title><link>https://centrespatial-polytechnique.fr/en/tags/ionsat/</link><description>Recent content in ionSat on CSEP</description><generator>Hugo -- gohugo.io</generator><managingEditor>antoine.tavant@polytechnique.edu (Antoine Tavant)</managingEditor><webMaster>antoine.tavant@polytechnique.edu (Antoine Tavant)</webMaster><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://centrespatial-polytechnique.fr/en/tags/ionsat/index.xml" rel="self" type="application/rss+xml"/><item><title>IonSat</title><link>https://centrespatial-polytechnique.fr/en/ionsat/</link><pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate><author>antoine.tavant@polytechnique.edu (Antoine Tavant)</author><guid>https://centrespatial-polytechnique.fr/en/ionsat/</guid><description>&lt;link rel="stylesheet" href="https://centrespatial-polytechnique.fr/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://centrespatial-polytechnique.fr/img/ionsat/Logo_IonSatV1_Large.png" alt="Logo d&amp;#39;IonSat"/>
+&lt;/div>
+&lt;a href="https://centrespatial-polytechnique.fr/img/ionsat/Logo_IonSatV1_Large.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Logo d&amp;#39;IonSat&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>IonSat is a propelled nanosatellite developed by students at the Ecole Polytechnique.&lt;/p></description></item></channel></rss>
